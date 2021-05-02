@@ -6,7 +6,7 @@ Telegram bot matching you with a random person of desired sex speaking on your l
 
 ### Installation (Cloud) 🌩
  
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/softmilkpc/mantapremoverjozz/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/softmilkpc/mantaprandomchat/tree/master)
 
 
 ## Supported commands
