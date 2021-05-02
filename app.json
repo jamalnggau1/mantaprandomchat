@@ -1,0 +1,14 @@
+{ "name": "mantapremoverjozzbot", 
+ "description": " A Telegram Bot To Hide Forward Source",
+ "repository": "https://github.com/softmilkpc/mantaprandomchat",
+ "logo": "https://telegra.ph/file/faacd4dd5b446769381f4.jpg",
+ "keywords": [ "bot","softmilkpc", "telegram" ],
+ "success_url": "web.telegram.org/mantapremoverjozzbot",
+ "env": {
+ "BOT_TOKEN": 
+{"description":"Get This Value from web.telegram.org/BotFather",
+ "value": ""}
+},
+ "buildpacks":
+ [{ "url": "heroku/python" } ]
+ }
